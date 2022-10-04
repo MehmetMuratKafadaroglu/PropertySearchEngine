@@ -1,16 +1,10 @@
-# app
+## Property Search Engine 
+This app is cross platform mobile app.That allows users to see existing properties that are uploaded by other users.
 
-A new Flutter project.
+## Used Technologies
+- Dart(Flutter) for user interface
+- Go as Restful API
+- PostgreSQL as Database
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![alt text](https://github.com/MehmetMuratKafadaroglu/PropertySearchEngine/blob/main/ss1.png?raw=true)
