@@ -7,4 +7,4 @@ This app is cross platform mobile app.That allows users to see existing properti
 - PostgreSQL as Database
 
 # Screenshots
-![alt text](https://github.com/MehmetMuratKafadaroglu/PropertySearchEngine/blob/master/assets/ss1.png?raw=true)
+![alt text](https://github.com/MehmetMuratKafadaroglu/PropertySearchEngine/blob/master/assets/ss1.png?raw=true?width=50)
